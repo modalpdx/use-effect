@@ -14,4 +14,4 @@ See index.html for an example of how this is implemented in a web page. Pretty s
 
 ## Confession
 
-I knew about Proxy ahead of time, and I've done quite a bit of React.js coding and too much HTML/CSS/JavaScript coding to quantify in a simple number...but the variations of how Proxy can be used drove me to employ Claude.ai to do the coding. He over-engineered it and I had to reign him back, but I think the final solution is clean enough to be proud of. Gotta keep an eye on those AI critters.
+I knew about Proxy ahead of time, and I've done quite a bit of React.js coding and too much HTML/CSS/JavaScript coding to quantify in a simple number...but the variations of how Proxy can be used drove me to employ Claude.ai to do a good chunk of the coding. He over-engineered it and I had to reign him back, but I think the final solution is clean enough to be proud of. Gotta keep an eye on those AI critters.
